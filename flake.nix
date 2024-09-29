@@ -78,6 +78,8 @@
           tqdm
           psutil
 
+          gitpython
+
           # Optional packages
           kornia
           spandrel
